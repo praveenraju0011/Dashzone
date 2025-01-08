@@ -1,0 +1,31 @@
+.containerStylingOne {
+  display: flex;
+}
+
+.containerStylingTwo {
+  justify-content: center;
+  align-items: center;
+}
+
+.formLabel {
+  font-weight: bold;
+}
+
+.formHelperText {
+  font-size: 12px;
+  color: gray;
+}
+.formHelperErrorText {
+  font-size: 12px;
+  color: red;
+}
+
+.boxStyling {
+  display: flex;
+  flex-direction: column;
+}
+
+.titleStyling {
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,62 @@
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+}
+
+.container {
+  font-family: "Arial", sans-serif;
+  background-color: #f4f4f4;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  
+}
+
+.hero {
+  color: rgb(71, 160, 15);
+  text-align: center;
+  width: 100%;
+  margin-top: 5px;
+}
+
+.heading {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.subheading {
+  font-size: 1.25rem;
+  margin-top: 10px;
+  font-style: italic;
+}
+
+.content {
+  padding: 40px 20px;
+  max-width: 800px;
+  width: 100%;
+}
+
+.sectionTitle {
+  font-size: 1.8rem;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.sectionContent {
+  font-size: 1rem;
+  color: #555;
+  line-height: 1.6;
+}
+
+.footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  width: 100%;
+}
